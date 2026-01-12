@@ -1,23 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdint.h>
 
-// Not sure if it's a good idea to name these such a generic name
-// How do we handle other datatypes of vectors?
-typedef struct vector {
+typedef struct Vector {
     size_t length;
     float* elements; 
-} vector_t;
+} Vector;
 
-typedef struct matrix {
+typedef struct Matrix {
     size_t rows;
     size_t cols;
     float* elements;
-} matrix_t;
+} Matrix;
 
-// Any naming scheme for this to keep it local? 
-// There aren't any classes in C, but I've heard 
-// significant criticism of C++ anyway.
-float matrix_get_element (matrix_t* mat, int i, int j) {
+float matrix_get_element (const Matrix* mat, int i, int j) {
 
     if (i > mat->rows || j > mat->cols) {
         // Don't know standard practice in raising error.
@@ -28,7 +24,7 @@ float matrix_get_element (matrix_t* mat, int i, int j) {
     return mat->elements[mat->cols*i + j];
 }
 
-void vector_print (vector_t* vec, char* name) {
+void vector_print (const Vector* vec,const char* name) {
     int i;
 
     printf("%s <%zu> : [\n",name,vec->length);
@@ -38,19 +34,18 @@ void vector_print (vector_t* vec, char* name) {
     printf("]\n");
 }
 
-void matrix_print (matrix_t* mat, char* name) {
+void matrix_print (const Matrix* mat,const char* name) {
     printf("%s <%zu,%zu>: [\n",name,mat->rows,mat->cols);
-    for (int i = 0; i < mat->rows; i++) {
-        for (int j = 0; j < mat->cols; j++) {
+    for (size_t i = 0; i < mat->rows; i++) {
+        for (size_t j = 0; j < mat->cols; j++) {
             printf("  %f,\t",matrix_get_element(mat,i,j));
         }
         printf("\n");
     }
     printf("]\n");
-
 }
 
-void matrix_vector_multiply (vector_t* res, matrix_t *mat, vector_t* vec) {
+void matrix_vector_multiply (Vector* res,const Matrix *mat,const Vector* vec) {
     if (mat->rows != vec->length) {
         fprintf(stderr,"mat rows != vector len! (%zu!=%zu)", mat->rows, vec->length);
         exit(EXIT_FAILURE);
@@ -66,104 +61,124 @@ void matrix_vector_multiply (vector_t* res, matrix_t *mat, vector_t* vec) {
     };
 };
 
-void vector_add (vector_t* res, vector_t* veca, vector_t* vecb) {
+void vector_add (Vector* res,const Vector* veca,const Vector* vecb) {
 
     if (veca->length != vecb->length) {
         fprintf(stderr,"vector length mismatch (%zu!=%zu)",veca->length,vecb->length);
         exit(EXIT_FAILURE);
     }
 
-    for (int i=0; i<veca->length; i++) {
+    for (size_t i=0; i<veca->length; i++) {
         res->elements[i] = veca->elements[i] + vecb->elements[i];
     }
 
 }
 
-void sim_step (vector_t* next_state, matrix_t* update, vector_t* state, vector_t* force) {
+void sim_step (Vector* next_state, Matrix* update, Vector* state, Vector* force) {
     matrix_vector_multiply(next_state,update,state);
     vector_add(state,next_state,force);
     //vector_print(state,"State");
 }
 
-void matrix_place_vector (matrix_t* mat, vector_t* vec, int index) {
+void matrix_place_vector (Matrix* mat,const Vector* vec, size_t index) {
     
     if (mat->cols != vec->length) {
         fprintf(stderr,"mat cols != vector len! (%zu!=%zu)", mat->rows, vec->length);
         exit(EXIT_FAILURE);
     };
 
-    for (int j=0; j < vec->length; j++) {
+    for (size_t j=0; j < vec->length; j++) {
         mat->elements[index*mat->cols + j] = vec->elements[j];
     }
     
 }
 
+// Nearly a general array
+int tensor_write_bin (const char* filename, const Matrix* mat) {
+
+    FILE* file = fopen(filename,"wb");
+    if (!file) {
+        fprintf(stderr, "Failed to open file.");
+        return 1;
+    }
+    
+    // Start file with ndims
+    uint32_t ndims = 1;
+    fwrite(&ndims, sizeof(size_t), 1, file);
+
+    // File starts with rows and cols
+    fwrite(&mat->rows, sizeof(size_t), 1, file);
+    fwrite(&mat->cols, sizeof(size_t), 1, file);
+
+    // Then, the payload
+    size_t matBufferLength = mat->rows*mat->cols;
+    fwrite(mat->elements, sizeof(float), matBufferLength, file);
+
+    return 0;
+}
+
 int main(void) {
-    vector_t state;
-    matrix_t update_matrix;
-    vector_t force_vector;
-    float dt=1e-3;
+    float dt=0.5e-3;
     float g=9.81;
     
-    //float stop_time = 10; //seconds
-    int num_steps = 500; 
-
-    matrix_t result_matrix;
-    float result_matrix_elements[num_steps*4];
-    result_matrix.cols = 4;
-    result_matrix.rows = num_steps;
-    result_matrix.elements = result_matrix_elements;
-
+    const int num_steps = 500; 
     printf("Number of steps: %i\n",num_steps);
     if (num_steps > 1000) {
         printf("Warning: simulating more than 1000 steps.\n");
     }
+
+    Matrix result_matrix;
+    float result_matrix_elements[num_steps*4];
+    result_matrix.cols = 4;
+    result_matrix.rows = num_steps;
+    result_matrix.elements = result_matrix_elements;
         
+    Vector state;
     float state_elements[4] = {
         0.,
         0.,
         1.,
         1.
     };
+    state.length = 4;
+    state.elements = state_elements;
 
+    Matrix update_matrix;
     float update_matrix_elements[4*4] = {
         1,  0,  dt,  0 ,
         0,  1,  0 ,  dt,
         0,  0,  1 ,  0 ,
         0,  0,  0 ,  1 ,
     };
+    update_matrix.rows = 4;
+    update_matrix.cols = 4;
+    update_matrix.elements = update_matrix_elements;
 
+    Vector force_vector;
     float force_vector_elements[4] = {
         0,
         0,
         0,
         -g*dt
     };
-
-
-    // Initial State
-    state.length = 4;
-    state.elements = state_elements;
-    update_matrix.rows = 4;
-    update_matrix.cols = 4;
-    update_matrix.elements = update_matrix_elements;
     force_vector.length = 4;
     force_vector.elements = force_vector_elements;
+
+    Vector next_state;
+    float next_state_elements[4];
+    next_state.elements = next_state_elements;
+    next_state.length = 4;
 
     matrix_print(&update_matrix, "Update Matrix");
     vector_print(&force_vector, "Force Vector");
     vector_print(&state,"Initial State");
 
-    vector_t next_state;
-    float next_state_elements[4];
-    next_state.elements = next_state_elements;
-    next_state.length = 4;
-
-    for (int step=0;step<num_steps;step++) {
+    for (size_t step=0;step<num_steps;step++) {
         sim_step(&next_state,&update_matrix,&state,&force_vector);
         matrix_place_vector(&result_matrix,&state,step);
     }
 
     matrix_print(&result_matrix,"Results");
+    tensor_write_bin("forwardEulerResults.bin",&result_matrix);
 
 };
