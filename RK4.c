@@ -18,17 +18,17 @@ void sim_step (Vector* state,const Vector* force, const float dt, const float dr
 
     float speed = sqrtf(vx*vx + vy*vy);
     
-    state->elements[0] = x + vx*dt;
-    state->elements[1] = y + vy*dt;
-    state->elements[2] = dt*(vx*(1-speed*drag_per_mass) - force->elements[2]);
-    state->elements[3] = dt*(vy*(1-speed*drag_per_mass) - force->elements[3]);
+    state->elements[0] = x + dt*vx;
+    state->elements[1] = y + dt*vy;
+    state->elements[2] = vx + dt*(vx*(-speed*drag_per_mass) + force->elements[2]);
+    state->elements[3] = vy + dt*(vy*(-speed*drag_per_mass) + force->elements[3]);
 
 }
 
 int main(void) {
     float dt=5e-3;
     float g=9.81;
-    float drag_per_mass=0.001;
+    float drag_per_mass=0.2;
  
     const int num_steps = 500; 
     printf("Number of steps: %i\n",num_steps);
@@ -57,7 +57,7 @@ int main(void) {
         0,
         0,
         0,
-        -g*dt
+        -g
     };
     force_vector.length = 4;
     force_vector.elements = force_vector_elements;
@@ -75,7 +75,8 @@ int main(void) {
         matrix_place_vector(&result_matrix,&state,step);
     }
 
+    printf("\tx,\ty,\tvx,\tvy,\n");
     matrix_print(&result_matrix,"Results");
-    tensor_write_bin("forwardEuler.bin",&result_matrix);
+    tensor_write_bin("RK4.bin",&result_matrix);
 
 };
