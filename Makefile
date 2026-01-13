@@ -1,23 +1,54 @@
 
-images/forwardEuler.gif: results/forwardEuler.bin	
-	python3 plot_results.py results/forwardEuler.bin
+CC := clang
+CFLAGS := -O3 -Wall -Wextra
+PYTHON := python3
 
-results/forwardEuler.bin: build/forwardEuler
-	./build/forwardEuler > results/forwardEuler.log
-	mv forwardEuler.bin results/
+SRC_DIR := .
+BUILD_DIR := build
+RESULTS_DIR := results
+IMAGES_DIR := images
 
-build/forwardEuler: forwardEuler.c build/tensors.o
-	cd build && \
-	clang tensors.o ../forwardEuler.c -o forwardEuler -O3
+COMMON_SRCS := tensors.c
+COMMON_OBJS := $(COMMON_SRCS:%.c=$(BUILD_DIR)/%.o);
 
-build/tensors.o: tensors.c tensors.h
-	cd build && \
-	clang -c ../tensors.c -o tensors.o
+# Specify solver name as input
+SOLVER ?=
 
-.PHONY: run
-run: build/forwardEuler
-	./build/forwardEuler 2>&1 | tee results/forwardEuler.log
-	mv forwardEuler.bin results/
+SOLVER_SRC := $(SRC_DIR)/$(SOLVER).c
+SOLVER_BIN := $(BUILD_DIR)/$(SOLVER)
+SOLVER_OUT := $(RESULTS_DIR)/$(SOLVER).bin
+SOLVER_LOG := $(RESULTS_DIR)/$(SOLVER).log
+SOLVER_GIF := $(IMAGES)/$(SOLVER).gif
 
-.PHONY: gif
-gif: images/forwardEuler.gif
+# Common Library
+$(BUILD_DIR)/%.o: $(SRC_DIR)/%.c $(SRC_DIR)/%.h | $(BUILD_DIR)
+	$(CC) $(CLAGS) -c $< -o $@
+
+# Compile
+$(BUILD.DIR)/%: $(SRC_DIR)/%.c $(COMMON_OBJS) | $(BUILD_DIR)	
+	$(CC) $(CFLAGS) $(COMMON_OBJS) $< -o $@
+
+# Run
+$(RESULTS_DIR)/%.bin: $(BUILD_DIR)/%
+	./$< > $(RESULTS_DIR)/$*.log
+	mv $*.bin $(RESULTS_DIR)/
+
+$(IMAGES_DIR)/%.gif: $(RESULTS_DIR)/%.bin plot_results.py
+	$(PYTHON) plot_results.py $<
+
+%:
+	@$(MAKE) --no-print-directory SOLVER=$@
+
+run-%:
+	@$(MAKE) --no-print-directory $(RESULTS_DIR)/$*.bin SOLVER=$*
+
+gif-%:
+	@$(MAKE) --no-print-directory $(IMAGES_DIR)/$*.gif SOLVER=$*
+
+$(BUILD_DIR) $(RESULTS_DIR) $(IMAGES_DIR):
+	mkdir -p $@
+
+.PHONY: clean
+clean:
+	rm -rf $(BUILD_DIR) $(RESULTS_DIR) $(IMAGES_DIR)
+
