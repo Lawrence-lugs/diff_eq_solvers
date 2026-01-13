@@ -30,11 +30,11 @@ void sim_step(Vector* state,const Vector* force, const float dt, const float dra
 }
 
 int main(void) {
-    float dt=5e-3;
+    float dt=50e-3;
     float g=9.81;
-    float drag_per_mass=0.2;
+    float drag_per_mass=0.02;
  
-    #define NUM_STEPS 500
+    #define NUM_STEPS 50
 
     Matrix result_matrix = {
         .elements = (float[NUM_STEPS * 4]){0},
@@ -62,6 +62,5 @@ int main(void) {
 
     printf("\tx,\ty,\tvx,\tvy,\n");
     matrix_print(&result_matrix,"Results");
-    tensor_write_bin("RK4.bin",&result_matrix);
-
+    tensor_write_bin("forwardEulerBetter.bin",&result_matrix);
 };

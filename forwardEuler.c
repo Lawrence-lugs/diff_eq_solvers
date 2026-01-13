@@ -33,9 +33,9 @@ void sim_step (Vector* next_state, Matrix* update, Vector* state, Vector* force)
 }
 
 int main(void) {
-    float dt=5e-3;
+    float dt=50e-3;
     float g=9.81;
-    float drag_factor=0.001;
+    float drag_factor=0.02;
  
     const int num_steps = 500; 
     printf("Number of steps: %i\n",num_steps);

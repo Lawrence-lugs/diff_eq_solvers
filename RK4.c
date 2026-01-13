@@ -78,7 +78,7 @@ int main(void) {
     float g=9.81;
     float drag_per_mass=0.02;
  
-    #define NUM_STEPS 100
+    #define NUM_STEPS 50
 
     Matrix result_matrix = {
         .elements = (float[NUM_STEPS * 4]){0},
