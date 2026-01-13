@@ -33,4 +33,6 @@ int tensor_write_bin (const char* filename, const Matrix* mat);
 
 void vector_scalar_multiply(const float scalar, Vector* vec);
 
+void vector_scalar_multiply_copy(Vector* dst,const float scalar,const Vector* vec);
+
 #endif // ndef __TENSORS_H__

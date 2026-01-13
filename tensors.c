@@ -13,6 +13,7 @@ typedef struct Matrix {
     float* elements;
 } Matrix;
 
+
 float matrix_get_element (const Matrix* mat, int i, int j) {
 
     if (i > mat->rows || j > mat->cols) {
@@ -95,6 +96,13 @@ void vector_scalar_multiply(const float scalar, Vector* vec) {
 
 }
 
+void vector_scalar_multiply_copy(Vector* dst,const float scalar,const Vector* vec) {
+
+    for (int i=0; i<vec->length; i++) {
+        dst->elements[i] = vec->elements[i]*scalar;
+    }
+
+}
 // Nearly a general array
 int tensor_write_bin (const char* filename, const Matrix* mat) {
 
