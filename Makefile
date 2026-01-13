@@ -9,7 +9,7 @@ RESULTS_DIR := results
 IMAGES_DIR := images
 
 COMMON_SRCS := tensors.c
-COMMON_OBJS := $(COMMON_SRCS:%.c=$(BUILD_DIR)/%.o);
+COMMON_OBJS := $(COMMON_SRCS:%.c=$(BUILD_DIR)/%.o)
 
 # Specify solver name as input
 SOLVER ?=
@@ -25,19 +25,19 @@ $(BUILD_DIR)/%.o: $(SRC_DIR)/%.c $(SRC_DIR)/%.h | $(BUILD_DIR)
 	$(CC) $(CLAGS) -c $< -o $@
 
 # Compile
-$(BUILD.DIR)/%: $(SRC_DIR)/%.c $(COMMON_OBJS) | $(BUILD_DIR)	
+$(BUILD_DIR)/%: $(SRC_DIR)/%.c $(COMMON_OBJS) | $(BUILD_DIR)	
 	$(CC) $(CFLAGS) $(COMMON_OBJS) $< -o $@
 
 # Run
-$(RESULTS_DIR)/%.bin: $(BUILD_DIR)/%
+$(RESULTS_DIR)/%.bin: $(BUILD_DIR)/% | $(RESULTS_DIR)
 	./$< > $(RESULTS_DIR)/$*.log
 	mv $*.bin $(RESULTS_DIR)/
 
-$(IMAGES_DIR)/%.gif: $(RESULTS_DIR)/%.bin plot_results.py
+$(IMAGES_DIR)/%.gif: $(RESULTS_DIR)/%.bin plot_results.py | $(IMAGES_DIR)
 	$(PYTHON) plot_results.py $<
 
 %:
-	@$(MAKE) --no-print-directory SOLVER=$@
+	@$(MAKE) --no-print-directory $(BUILD_DIR)/$@ SOLVER=$@
 
 run-%:
 	@$(MAKE) --no-print-directory $(RESULTS_DIR)/$*.bin SOLVER=$*

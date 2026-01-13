@@ -87,6 +87,14 @@ void matrix_place_vector (Matrix* mat,const Vector* vec, size_t index) {
     
 }
 
+void vector_scalar_multiply(const float scalar, Vector* vec) {
+
+    for (int i=0; i<vec->length; i++) {
+        vec->elements[i] = vec->elements[i]*scalar;
+    }
+
+}
+
 // Nearly a general array
 int tensor_write_bin (const char* filename, const Matrix* mat) {
 
