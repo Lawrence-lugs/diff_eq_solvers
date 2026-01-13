@@ -14,3 +14,10 @@ build/tensors.o: tensors.c tensors.h
 	cd build && \
 	clang -c ../tensors.c -o tensors.o
 
+.PHONY: run
+run: build/forwardEuler
+	./build/forwardEuler 2>&1 | tee results/forwardEuler.log
+	mv forwardEuler.bin results/
+
+.PHONY: gif
+gif: images/forwardEuler.gif

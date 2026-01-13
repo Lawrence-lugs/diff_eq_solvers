@@ -1,6 +1,30 @@
 #include <stdio.h>
 #include <stdint.h>
+#include <math.h>
+#include <string.h>
 #include "tensors.h"
+
+// This function assumes that has defined rows and cols
+void get_update_matrix (Matrix* upd,const Vector* state,const float dt, const float drag_constant) {
+
+    float x = state->elements[0];
+    float y = state->elements[1];
+    float vx = state->elements[2];
+    float vy = state->elements[3];
+
+    float speed = sqrtf(vx*vx + vy*vy); 
+    float drag = speed*drag_constant;
+
+    float updated_elements[4*4] = {
+        1,  0,  dt     ,  0      ,
+        0,  1,  0      ,  dt     ,
+        0,  0,  1-drag ,  0      ,
+        0,  0,  0      ,  1-drag ,
+    };
+
+    memcpy(upd->elements, updated_elements, sizeof(updated_elements));
+
+}
 
 void sim_step (Vector* next_state, Matrix* update, Vector* state, Vector* force) {
     matrix_vector_multiply(next_state,update,state);
@@ -11,6 +35,7 @@ void sim_step (Vector* next_state, Matrix* update, Vector* state, Vector* force)
 int main(void) {
     float dt=5e-3;
     float g=9.81;
+    float drag_factor=0.001;
  
     const int num_steps = 500; 
     printf("Number of steps: %i\n",num_steps);
@@ -35,15 +60,11 @@ int main(void) {
     state.elements = state_elements;
 
     Matrix update_matrix;
-    float update_matrix_elements[4*4] = {
-        1,  0,  dt,  0 ,
-        0,  1,  0 ,  dt,
-        0,  0,  1 ,  0 ,
-        0,  0,  0 ,  1 ,
-    };
+    float update_matrix_elements[4*4];
     update_matrix.rows = 4;
     update_matrix.cols = 4;
     update_matrix.elements = update_matrix_elements;
+    get_update_matrix(&update_matrix,&state,dt,drag_factor);
 
     Vector force_vector;
     float force_vector_elements[4] = {
@@ -67,6 +88,7 @@ int main(void) {
     for (size_t step=0;step<num_steps;step++) {
         sim_step(&next_state,&update_matrix,&state,&force_vector);
         matrix_place_vector(&result_matrix,&state,step);
+        get_update_matrix(&update_matrix, &state, dt, drag_factor);
     }
 
     matrix_print(&result_matrix,"Results");

@@ -125,3 +125,9 @@ float vector_dot_product(const Vector* veca, const Vector* vecb) {
 
     return res;
 }
+    
+float vector_norm(const Vector* vec) {
+
+    return vector_dot_product(vec, vec); 
+
+};
