@@ -5,6 +5,7 @@ import seaborn as sns
 import numpy as np
 import argparse
 import ctypes
+from pathlib import Path
 
 def read_array_bin(filename):
 
@@ -24,46 +25,69 @@ def read_array_bin(filename):
 
 if __name__ == "__main__":
 
-    parser = argparse.ArgumentParser();
+    results_dir = Path("results")
 
-    parser.add_argument("input_file",help="input binary file to use");
-    
-    args = parser.parse_args();
+    if not results_dir.exists():
+        print("Results dir does not exist.")
+        raise(FileNotFoundError)
 
-    filename=f'{args.input_file[:-4]}'
+    bin_files = list(results_dir.glob("*.bin"))
 
-    res_array = read_array_bin(args.input_file)
-    print(res_array)
+    if not bin_files:
+        print("No bin files found")
+        raise(FileNotFoundError)
 
-    x_pos = res_array[0]
-    y_pos = res_array[1]
+    fig, ax = plt.subplots()
 
-    # Reference solution
+    # Reference Line
     t = np.linspace(start=0.,stop=5e-3*500,num=500)
     ref_x_pos = 10*t;
     ref_y_pos = (-9.81*t*t)/2 + 10*t 
-
-    fig, ax = plt.subplots()
     ref_line = ax.plot(ref_x_pos,ref_y_pos, label=f'Analytical (no drag)',ls='--')
-    line = ax.plot(x_pos[0], y_pos[0], label=f'Forward Euler')[0]
-    
+
+    sim_data = []
+    max_frames = 0
+
+    for file_path in bin_files:
+        res_array = read_array_bin(file_path)
+
+        x_pos = res_array[0]
+        y_pos = res_array[1]
+
+        current_frames = res_array.shape[1]
+        if current_frames > max_frames:
+            max_frames = current_frames
+
+        line, = ax.plot(x_pos[0], y_pos[0], label=file_path.stem)
+
+        sim_data.append({
+            'line': line,
+            'x_data': x_pos,
+            'y_data': y_pos,
+            'num_frames': current_frames
+        })
+
     ax.set(xlim=[0,20],ylim=[-5.5,5.5],xlabel='x', ylabel='y')
     ax.legend()
 
     def update(frame):
-        x = x_pos[:frame]
-        y = y_pos[:frame]
-        line.set_xdata(x)
-        line.set_ydata(y)
-        return (line,line)
+        artists = []
+        for sim in sim_data:
+            idx = min(frame, sim['num_frames']-1)
+
+            x = sim['x_data'][:idx]
+            y = sim['y_data'][:idx]
+            sim['line'].set_xdata(x)
+            sim['line'].set_ydata(y)
+            artists.append(sim['line'])
+
+        return artists
 
     dt = 5e-3
-    frames = res_array.shape[1] # Total number of frames
     interval = dt # Delay between frames
 
-    ani = animation.FuncAnimation(fig=fig, func=update, frames=frames, interval=interval)
+    ani = animation.FuncAnimation(fig=fig, func=update, frames=max_frames, interval=interval)
     plt.show()
 
-    fps = int(1/dt)
-    #ani.save(f'{filename}.gif',fps=60)
+    ani.save(f'results/trajectories.gif',fps=60)
     
