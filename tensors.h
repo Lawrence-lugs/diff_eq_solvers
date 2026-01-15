@@ -9,11 +9,15 @@ typedef struct Vector {
     float* elements; 
 } Vector;
 
+#define V(v,i) ((v).elements[(i)])
+
 typedef struct Matrix {
     size_t rows;
     size_t cols;
     float* elements;
 } Matrix;
+
+#define M(m,i,j) (matrix_get_element(m,i,j))
 
 void matrix_place_vector (Matrix* mat,const Vector* vec, size_t index);
 

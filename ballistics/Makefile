@@ -1,6 +1,6 @@
 
 CC := clang
-CFLAGS := -O3 -Wall -Wextra
+CFLAGS := -I.. -O3 -Wall -Wextra
 PYTHON := python3
 
 SRC_DIR := .
@@ -8,7 +8,7 @@ BUILD_DIR := build
 RESULTS_DIR := results
 IMAGES_DIR := images
 
-COMMON_SRCS := tensors.c
+COMMON_SRCS := ../tensors.c
 COMMON_OBJS := $(COMMON_SRCS:%.c=$(BUILD_DIR)/%.o)
 
 # Specify solver name as input
