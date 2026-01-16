@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
+#include <string.h>
 
 typedef struct Vector {
     size_t length;
@@ -13,6 +14,137 @@ typedef struct Matrix {
     float* elements;
 } Matrix;
 
+typedef struct Tensor {
+    size_t length;
+    size_t ndims;
+    size_t* shape;
+    float* elements;
+} Tensor;
+
+Tensor* tensor_create(size_t ndims, size_t* shape) {
+
+    Tensor* tsr = malloc(sizeof(Tensor));
+    if (!tsr) return NULL;
+
+    size_t numElements = 1;
+    for (size_t i=0; i<ndims; i++) {
+        numElements *= shape[i]; 
+    }
+
+    tsr->ndims = ndims;
+    tsr->length = numElements;
+    tsr->elements = malloc(numElements*sizeof(float));
+    tsr->shape = malloc(ndims*sizeof(size_t));  
+
+    memcpy(tsr->shape,shape,ndims*sizeof(size_t));
+
+    if (!tsr->elements || !tsr->shape) {
+        free(tsr->elements);
+        free(tsr->shape);
+        return NULL;
+    }
+
+    return tsr;
+}
+
+void tensor_destroy(Tensor* tsr) {
+    free(tsr->shape);
+    free(tsr->elements);
+    free(tsr);
+}
+
+void tensor_set_zero(Tensor* tsr) {
+    memset(tsr->elements,0,tsr->length * sizeof(*tsr->elements));
+}
+
+size_t tensor_length(const Tensor* tsr) {
+    size_t length;
+    for(size_t i=0;i<tsr->ndims;i++) {
+        length *= tsr->shape[i]; 
+    }
+    return length;
+}
+
+void tensor_copyto_index(Tensor* dst,const Tensor* src, size_t index) {
+    if (dst->ndims != src->ndims-1) {
+        char errMsg[128];
+        sprintf(errMsg,
+                "Tensor copy ndim mismatch (dst %zu != src %zu)\n",
+                dst->ndims,
+                src->ndims); 
+        perror(errMsg);
+        exit(1);
+    }
+
+    size_t offsetBytes = sizeof(float);
+    for(size_t i=0;i<dst->ndims-1;i++) {
+        offsetBytes *= dst->shape[i]; 
+    }
+
+    size_t sourceBytes = sizeof(float)*tensor_length(src);
+    memcpy(dst->elements+offsetBytes,src->elements,sourceBytes);
+}
+
+void tensor_copyto(Tensor* dst,const Tensor* src){
+
+    if (dst->ndims != src->ndims) {
+        char errMsg[128];
+        sprintf(errMsg,
+                "Tensor copy ndim mismatch (dst %zu != src %zu)\n",
+                dst->ndims,
+                src->ndims); 
+        perror(errMsg);
+        exit(1);
+    }
+
+    for(size_t i = 0; i<dst->ndims; i++) {
+        if(dst->shape[i] != src->shape[i]) {
+            char errMsg[128];
+            sprintf(errMsg,
+                    "Tensor copy dim %zu mismatch (dst %zu != src %zu)\n",
+                    i,
+                    dst->shape[i],
+                    src->shape[i]); 
+            perror(errMsg);
+            exit(1);
+        }
+    }
+
+    size_t sourceBytes = sizeof(float)*tensor_length(src);
+    memcpy(dst->elements,src->elements,sourceBytes);
+
+    for(size_t i=0;i<dst->ndims;i++) {
+        dst->shape[i] = src->shape[i];
+    }
+}
+
+Tensor* tensor_copy(const Tensor* src){
+    Tensor* dst = tensor_create(src->ndims, src->shape); 
+    tensor_copyto(dst,src);
+    return dst;
+}
+
+// TODO
+void tensor_transpose(Tensor* dst, size_t* indices);
+
+void tensor_sliceto(Tensor* dst, const Tensor* src, size_t index){
+    if (dst->ndims-1 != src->ndims) {
+        perror("Dims incompatible.\n");
+        exit(1);
+    }
+
+    size_t sourceBytes = sizeof(float)*tensor_length(src);
+    memcpy(dst->elements,src->elements,sourceBytes);
+    for(size_t i=0;i<dst->ndims;i++) {
+        dst->shape[i] = src->shape[i];
+    }
+}
+
+Tensor* tensor_slice(const Tensor* src,size_t index){
+    Tensor* dst = tensor_create(src->ndims-1, src->shape); 
+    tensor_sliceto(dst,src,index);
+    return dst;
+}
 
 float matrix_get_element (const Matrix* mat, int i, int j) {
 
@@ -104,7 +236,7 @@ void vector_scalar_multiply_copy(Vector* dst,const float scalar,const Vector* ve
 
 }
 // Nearly a general array
-int tensor_write_bin (const char* filename, const Matrix* mat) {
+int matrix_write_bin (const char* filename, const Matrix* mat) {
 
     FILE* file = fopen(filename,"wb");
     if (!file) {
@@ -147,3 +279,25 @@ float vector_norm(const Vector* vec) {
     return vector_dot_product(vec, vec); 
 
 };
+
+int tensor_write_bin (const char* filename, const Tensor* tensor) {
+
+    FILE* file = fopen(filename,"wb");
+    if (!file) {
+        fprintf(stderr, "Failed to open file.");
+        return 1;
+    }
+    
+    // Start file with ndims
+    fwrite(&tensor->ndims, sizeof(size_t), 1, file);
+
+    // File starts with the shape
+    for (size_t i=0; i<tensor->ndims; i++) {
+        fwrite(&tensor->shape[i], sizeof(size_t), 1, file);
+    }
+
+    // Then, the payload
+    fwrite(tensor->elements, sizeof(float), tensor->length, file);
+
+    return 0;
+}
