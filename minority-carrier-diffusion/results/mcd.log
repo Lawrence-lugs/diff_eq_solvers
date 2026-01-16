@@ -1,0 +1,18816 @@
+Point 1 <2> : [
+  100000.000000,
+  0.000000,
+]
+Slope 1 <2> : [
+  0.000000,
+  -100000000.000000,
+]
+Point 2 <2> : [
+  100000.000000,
+  -100000000.000000,
+]
+Slope 2 <2> : [
+  -100000000.000000,
+  -100000000.000000,
+]
+Point 3 <2> : [
+  -99900000.000000,
+  -200000000.000000,
+]
+Slope 3 <2> : [
+  -200000000.000000,
+  99899998208.000000,
+]
+Point 4 <2> : [
+  -299900000.000000,
+  99699998720.000000,
+]
+Slope 4 <2> : [
+  99699998720.000000,
+  299900010496.000000,
+]
+Point 5 <2> : [
+  99400097792.000000,
+  399599992832.000000,
+]
+Slope 5 <2> : [
+  399599992832.000000,
+  -99400097464320.000000,
+]
+Point 6 <2> : [
+  499000082432.000000,
+  -99000497733632.000000,
+]
+Slope 6 <2> : [
+  -99000497733632.000000,
+  -499000071421952.000000,
+]
+Point 7 <2> : [
+  -98501501386752.000000,
+  -598000577544192.000000,
+]
+Slope 7 <2> : [
+  -598000577544192.000000,
+  98501501520969728.000000,
+]
+Point 8 <2> : [
+  -696502095708160.000000,
+  97903504634413056.000000,
+]
+Slope 8 <2> : [
+  97903504634413056.000000,
+  696502064569647104.000000,
+]
+Point 9 <2> : [
+  97206998377955328.000000,
+  794405534844321792.000000,
+]
+Slope 9 <2> : [
+  794405534844321792.000000,
+  -97206996178932072448.000000,
+]
+Point 10 <2> : [
+  891612533222277120.000000,
+  -96412594629817401344.000000,
+]
+Slope 10 <2> : [
+  -96412594629817401344.000000,
+  -891612521127649214464.000000,
+]
+Point 11 <2> : [
+  -95520978660621287424.000000,
+  -988025089369187549184.000000,
+]
+Slope 11 <2> : [
+  -988025089369187549184.000000,
+  95520978801358775779328.000000,
+]
+Point 12 <2> : [
+  -1083546085621994881024.000000,
+  94532952093508472143872.000000,
+]
+Slope 12 <2> : [
+  94532952093508472143872.000000,
+  1083546110391792831561728.000000,
+]
+Point 13 <2> : [
+  93449404037561640288256.000000,
+  1178079044470902794223616.000000,
+]
+Slope 13 <2> : [
+  1178079044470902794223616.000000,
+  -93449406919865401805373440.000000,
+]
+Point 14 <2> : [
+  1271528448508464434511872.000000,
+  -92271324056342015000969216.000000,
+]
+Slope 14 <2> : [
+  -92271324056342015000969216.000000,
+  -1271528461190600985187188736.000000,
+]
+Point 15 <2> : [
+  -90999799210713252462854144.000000,
+  -1363799812917059110752485376.000000,
+]
+Slope 15 <2> : [
+  -1363799812917059110752485376.000000,
+  90999803785505782742822944768.000000,
+]
+Point 16 <2> : [
+  -1454799667468004584343994368.000000,
+  89636003234718960683688394752.000000,
+]
+Slope 16 <2> : [
+  89636003234718960683688394752.000000,
+  1454799721775219137344914325504.000000,
+]
+Point 17 <2> : [
+  88181202681807240561285922816.000000,
+  1544435677786273269332150583296.000000,
+]
+Slope 17 <2> : [
+  1544435677786273269332150583296.000000,
+  -88181206006353244501516153257984.000000,
+]
+Point 18 <2> : [
+  1632616842689148646936274796544.000000,
+  -86636769421872606521212121645056.000000,
+]
+Slope 18 <2> : [
+  -86636769421872606521212121645056.000000,
+  -1632616833017742090019241398894592.000000,
+]
+Point 19 <2> : [
+  -85004148952405999030388322729984.000000,
+  -1719253602439614696540453520539648.000000,
+]
+Slope 19 <2> : [
+  -1719253602439614696540453520539648.000000,
+  85004153053082379163210483333332992.000000,
+]
+Point 20 <2> : [
+  -1804257683692174797151608059723776.000000,
+  83284901926522843037430579611041792.000000,
+]
+Slope 20 <2> : [
+  83284901926522843037430579611041792.000000,
+  1804257715878615818571495207101005824.000000,
+]
+Point 21 <2> : [
+  81480643933345658418933902826536960.000000,
+  1887542677226260547307178981870010368.000000,
+]
+Slope 21 <2> : [
+  1887542677226260547307178981870010368.000000,
+  -81480645795207477504145836274819792896.000000,
+]
+Point 22 <2> : [
+  1969023296400805420018507386714062848.000000,
+  -79593103910262842099482033228389285888.000000,
+]
+Slope 22 <2> : [
+  -79593103910262842099482033228389285888.000000,
+  -inf,
+]
+Point 23 <2> : [
+  -77624082515337937021807628086730031104.000000,
+  -inf,
+]
+Slope 23 <2> : [
+  -inf,
+  inf,
+]
+Point 24 <2> : [
+  -inf,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  inf,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
+Point 1 <2> : [
+  -nan,
+  -nan,
+]
+Slope 1 <2> : [
+  -nan,
+  -nan,
+]
+Point 2 <2> : [
+  -nan,
+  -nan,
+]
+Slope 2 <2> : [
+  -nan,
+  -nan,
+]
+Point 3 <2> : [
+  -nan,
+  -nan,
+]
+Slope 3 <2> : [
+  -nan,
+  -nan,
+]
+Point 4 <2> : [
+  -nan,
+  -nan,
+]
+Slope 4 <2> : [
+  -nan,
+  -nan,
+]
+Point 5 <2> : [
+  -nan,
+  -nan,
+]
+Slope 5 <2> : [
+  -nan,
+  -nan,
+]
+Point 6 <2> : [
+  -nan,
+  -nan,
+]
+Slope 6 <2> : [
+  -nan,
+  -nan,
+]
+Point 7 <2> : [
+  -nan,
+  -nan,
+]
+Slope 7 <2> : [
+  -nan,
+  -nan,
+]
+Point 8 <2> : [
+  -nan,
+  -nan,
+]
+Slope 8 <2> : [
+  -nan,
+  -nan,
+]
+Point 9 <2> : [
+  -nan,
+  -nan,
+]
+Slope 9 <2> : [
+  -nan,
+  -nan,
+]
+Point 10 <2> : [
+  -nan,
+  -nan,
+]
+Slope 10 <2> : [
+  -nan,
+  -nan,
+]
+Point 11 <2> : [
+  -nan,
+  -nan,
+]
+Slope 11 <2> : [
+  -nan,
+  -nan,
+]
+Point 12 <2> : [
+  -nan,
+  -nan,
+]
+Slope 12 <2> : [
+  -nan,
+  -nan,
+]
+Point 13 <2> : [
+  -nan,
+  -nan,
+]
+Slope 13 <2> : [
+  -nan,
+  -nan,
+]
+Point 14 <2> : [
+  -nan,
+  -nan,
+]
+Slope 14 <2> : [
+  -nan,
+  -nan,
+]
+Point 15 <2> : [
+  -nan,
+  -nan,
+]
+Slope 15 <2> : [
+  -nan,
+  -nan,
+]
+Point 16 <2> : [
+  -nan,
+  -nan,
+]
+Slope 16 <2> : [
+  -nan,
+  -nan,
+]
+Point 17 <2> : [
+  -nan,
+  -nan,
+]
+Slope 17 <2> : [
+  -nan,
+  -nan,
+]
+Point 18 <2> : [
+  -nan,
+  -nan,
+]
+Slope 18 <2> : [
+  -nan,
+  -nan,
+]
+Point 19 <2> : [
+  -nan,
+  -nan,
+]
+Slope 19 <2> : [
+  -nan,
+  -nan,
+]
+Point 20 <2> : [
+  -nan,
+  -nan,
+]
+Slope 20 <2> : [
+  -nan,
+  -nan,
+]
+Point 21 <2> : [
+  -nan,
+  -nan,
+]
+Slope 21 <2> : [
+  -nan,
+  -nan,
+]
+Point 22 <2> : [
+  -nan,
+  -nan,
+]
+Slope 22 <2> : [
+  -nan,
+  -nan,
+]
+Point 23 <2> : [
+  -nan,
+  -nan,
+]
+Slope 23 <2> : [
+  -nan,
+  -nan,
+]
+Point 24 <2> : [
+  -nan,
+  -nan,
+]
+Slope 24 <2> : [
+  -nan,
+  -nan,
+]
+Point 25 <2> : [
+  -nan,
+  -nan,
+]
+Slope 25 <2> : [
+  -nan,
+  -nan,
+]
+Point 26 <2> : [
+  -nan,
+  -nan,
+]
+Slope 26 <2> : [
+  -nan,
+  -nan,
+]
+Point 27 <2> : [
+  -nan,
+  -nan,
+]
+Slope 27 <2> : [
+  -nan,
+  -nan,
+]
+Point 28 <2> : [
+  -nan,
+  -nan,
+]
+Slope 28 <2> : [
+  -nan,
+  -nan,
+]
+Point 29 <2> : [
+  -nan,
+  -nan,
+]
+Slope 29 <2> : [
+  -nan,
+  -nan,
+]
+Point 30 <2> : [
+  -nan,
+  -nan,
+]
+Slope 30 <2> : [
+  -nan,
+  -nan,
+]
+Point 31 <2> : [
+  -nan,
+  -nan,
+]
+Slope 31 <2> : [
+  -nan,
+  -nan,
+]
+Point 32 <2> : [
+  -nan,
+  -nan,
+]
+Slope 32 <2> : [
+  -nan,
+  -nan,
+]
+Point 33 <2> : [
+  -nan,
+  -nan,
+]
+Slope 33 <2> : [
+  -nan,
+  -nan,
+]
+Point 34 <2> : [
+  -nan,
+  -nan,
+]
+Slope 34 <2> : [
+  -nan,
+  -nan,
+]
+Point 35 <2> : [
+  -nan,
+  -nan,
+]
+Slope 35 <2> : [
+  -nan,
+  -nan,
+]
+Point 36 <2> : [
+  -nan,
+  -nan,
+]
+Slope 36 <2> : [
+  -nan,
+  -nan,
+]
+Point 37 <2> : [
+  -nan,
+  -nan,
+]
+Slope 37 <2> : [
+  -nan,
+  -nan,
+]
+Point 38 <2> : [
+  -nan,
+  -nan,
+]
+Slope 38 <2> : [
+  -nan,
+  -nan,
+]
+Point 39 <2> : [
+  -nan,
+  -nan,
+]
+Slope 39 <2> : [
+  -nan,
+  -nan,
+]
+Point 40 <2> : [
+  -nan,
+  -nan,
+]
+Slope 40 <2> : [
+  -nan,
+  -nan,
+]
+Point 41 <2> : [
+  -nan,
+  -nan,
+]
+Slope 41 <2> : [
+  -nan,
+  -nan,
+]
+Point 42 <2> : [
+  -nan,
+  -nan,
+]
+Slope 42 <2> : [
+  -nan,
+  -nan,
+]
+Point 43 <2> : [
+  -nan,
+  -nan,
+]
+Slope 43 <2> : [
+  -nan,
+  -nan,
+]
+Point 44 <2> : [
+  -nan,
+  -nan,
+]
+Slope 44 <2> : [
+  -nan,
+  -nan,
+]
+Point 45 <2> : [
+  -nan,
+  -nan,
+]
+Slope 45 <2> : [
+  -nan,
+  -nan,
+]
+Point 46 <2> : [
+  -nan,
+  -nan,
+]
+Slope 46 <2> : [
+  -nan,
+  -nan,
+]
+Point 47 <2> : [
+  -nan,
+  -nan,
+]
+Slope 47 <2> : [
+  -nan,
+  -nan,
+]
+Point 48 <2> : [
+  -nan,
+  -nan,
+]
+Slope 48 <2> : [
+  -nan,
+  -nan,
+]
