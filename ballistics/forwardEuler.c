@@ -92,6 +92,6 @@ int main(void) {
     }
 
     matrix_print(&result_matrix,"Results");
-    tensor_write_bin("forwardEuler.bin",&result_matrix);
+    matrix_write_bin("forwardEuler.bin",&result_matrix);
 
 };

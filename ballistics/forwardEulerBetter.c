@@ -62,5 +62,5 @@ int main(void) {
 
     printf("\tx,\ty,\tvx,\tvy,\n");
     matrix_print(&result_matrix,"Results");
-    tensor_write_bin("forwardEulerBetter.bin",&result_matrix);
+    matrix_write_bin("forwardEulerBetter.bin",&result_matrix);
 };
