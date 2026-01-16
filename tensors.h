@@ -25,6 +25,11 @@ typedef struct Tensor {
     float* elements;
 } Tensor;
 
+
+void tensor_scalar_add(Tensor* tsr, float scalar);
+
+void tensor_add(Tensor* tsrA, Tensor* tsrB);
+
 void tensor_copyto_index(Tensor* dst,const Tensor* src, size_t index);
 
 Tensor* tensor_create(size_t ndims, size_t* shape);

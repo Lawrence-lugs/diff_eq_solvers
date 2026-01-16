@@ -21,6 +21,34 @@ typedef struct Tensor {
     float* elements;
 } Tensor;
 
+void _check_dim_match (size_t dim1, size_t dim0) {
+    if (dim1 != dim0) {
+        char errMsg[128];
+        sprintf(errMsg,
+                "Tensor copy ndim mismatch (tsr1 %zu != tsr2 %zu)\n",
+                dim1,
+                dim0); 
+        perror(errMsg);
+        exit(1);
+    }
+}
+
+// Always uses the ndims of tsr1
+void _check_shape_match (const Tensor* tsr1, const Tensor* tsr2) {
+    for(size_t i = 0; i<tsr1->ndims; i++) {
+        if(tsr1->shape[i] != tsr2->shape[i]) {
+            char errMsg[128];
+            sprintf(errMsg,
+                    "Tensor copy dim %zu mismatch (tsr1 %zu != tsr2 %zu)\n",
+                    i,
+                    tsr1->shape[i],
+                    tsr2->shape[i]); 
+            perror(errMsg);
+            exit(1);
+        }
+    }
+}
+
 Tensor* tensor_create(size_t ndims, size_t* shape) {
 
     Tensor* tsr = malloc(sizeof(Tensor));
@@ -65,16 +93,23 @@ size_t tensor_length(const Tensor* tsr) {
     return length;
 }
 
+void tensor_add(Tensor* tsrA, Tensor* tsrB) {
+    _check_dim_match(tsrA->ndims, tsrB->ndims);
+    _check_shape_match(tsrA, tsrB);
+    for (size_t i=0;i<tsrA->length;i++) {
+        tsrA->elements[i]+=tsrB->elements[i];
+    } 
+};
+
+void tensor_scalar_add(Tensor* tsr, float scalar) {
+    for (size_t i=0;i<tsr->length;i++) {
+        tsr->elements[i]+=scalar;
+    } 
+};
+
 void tensor_copyto_index(Tensor* dst,const Tensor* src, size_t index) {
-    if (dst->ndims != src->ndims-1) {
-        char errMsg[128];
-        sprintf(errMsg,
-                "Tensor copy ndim mismatch (dst %zu != src %zu)\n",
-                dst->ndims,
-                src->ndims); 
-        perror(errMsg);
-        exit(1);
-    }
+    _check_dim_match(dst->ndims-1, src->ndims);
+    _check_shape_match(src, dst);
 
     size_t offsetBytes = sizeof(float);
     for(size_t i=0;i<dst->ndims-1;i++) {
@@ -86,29 +121,8 @@ void tensor_copyto_index(Tensor* dst,const Tensor* src, size_t index) {
 }
 
 void tensor_copyto(Tensor* dst,const Tensor* src){
-
-    if (dst->ndims != src->ndims) {
-        char errMsg[128];
-        sprintf(errMsg,
-                "Tensor copy ndim mismatch (dst %zu != src %zu)\n",
-                dst->ndims,
-                src->ndims); 
-        perror(errMsg);
-        exit(1);
-    }
-
-    for(size_t i = 0; i<dst->ndims; i++) {
-        if(dst->shape[i] != src->shape[i]) {
-            char errMsg[128];
-            sprintf(errMsg,
-                    "Tensor copy dim %zu mismatch (dst %zu != src %zu)\n",
-                    i,
-                    dst->shape[i],
-                    src->shape[i]); 
-            perror(errMsg);
-            exit(1);
-        }
-    }
+    _check_dim_match(dst->ndims, src->ndims);
+    _check_shape_match(src, dst);
 
     size_t sourceBytes = sizeof(float)*tensor_length(src);
     memcpy(dst->elements,src->elements,sourceBytes);
